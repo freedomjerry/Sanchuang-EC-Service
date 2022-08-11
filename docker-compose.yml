@@ -1,0 +1,22 @@
+version: '3'
+networks:
+    ects:
+services:
+    ects-getsellserver:
+      build:
+        ECTS
+      networks:
+        - ects
+      ports:
+      - "8000"
+    nginx:
+      build:
+        nginx
+      networks:
+        - ects
+      depends_on:
+        - ects-getsellserver
+      links:
+        - ects-getsellserver
+      ports:
+      - "8000:80"

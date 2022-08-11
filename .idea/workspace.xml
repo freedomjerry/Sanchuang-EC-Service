@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="63610560-f254-4578-8a8d-a64452b29390" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DockDockBuild.Settings">
+    <option name="codePath" value="$PROJECT_DIR$" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/cpp-httplib" />
+  </component>
+  <component name="JupyterTrust" id="33c55c7d-cffd-4209-84ae-a6c0a7cca1c2" />
+  <component name="ProjectId" id="29SMA6GcKM2EYfCxF5bxSUPUbk9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../科研/benchmark/Autoregressive-Modeling-with-Distribution-Smoothing" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\工作\Sanchuang Early Classification\word_analyize" />
+      <recent name="D:\工作\Sanchuang Early Classification\ECTS" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.word">
+    <configuration name="ECTSServer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Sanchuang Early Classification" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ECTSServer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="GetSellServer (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Sanchuang Early Classification" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ECTS" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ECTS/GetSellServer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="GetSellServer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Sanchuang Early Classification" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GetSellServer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="MakeData" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Sanchuang Early Classification" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\工作\Sanchuang Early Classification\MakeData.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Sanchuang Early Classification" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Sanchuang Early Classification" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\25440\.conda\envs\naru\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="word" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Sanchuang Early Classification" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/word_analyize" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/word_analyize/word.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Sanchuang Early Classification" />
+      <item itemvalue="Python.ECTSServer" />
+      <item itemvalue="Python.GetSellServer" />
+      <item itemvalue="Python.MakeData" />
+      <item itemvalue="Python.GetSellServer (1)" />
+      <item itemvalue="Python.word" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.word" />
+        <item itemvalue="Python.GetSellServer (1)" />
+        <item itemvalue="Python.GetSellServer" />
+        <item itemvalue="Python.MakeData" />
+        <item itemvalue="Python.ECTSServer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="63610560-f254-4578-8a8d-a64452b29390" name="Default Changelist" comment="" />
+      <created>1653101887122</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653101887122</updated>
+      <workItem from="1653101888321" duration="23240000" />
+      <workItem from="1653443029333" duration="1196000" />
+      <workItem from="1653897057524" duration="8075000" />
+      <workItem from="1654660017763" duration="2000" />
+      <workItem from="1655087905872" duration="1554000" />
+      <workItem from="1655699248414" duration="2082000" />
+      <workItem from="1655906792761" duration="407000" />
+      <workItem from="1655907729912" duration="13102000" />
+      <workItem from="1660138618818" duration="669000" />
+      <workItem from="1660206749568" duration="1937000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-2072" y="-133" width="1089" height="739" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1653102049131">
+      <screen x="-2560" y="-349" width="2065" height="1122" />
+    </state>
+    <state x="-2072" y="-133" width="1089" height="739" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1549.831/1920.0.1549.831/-2560.-349.2065.1122@-2560.-349.2065.1122" timestamp="1653102049131" />
+    <state x="-995" y="304" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1655975137433">
+      <screen x="-1440" y="-349" width="1162" height="2025" />
+    </state>
+    <state x="-995" y="304" key="#com.intellij.fileTypes.FileTypeChooser/-1440.-349.1162.2025/1920.0.1549.831/0.0.1549.831@-1440.-349.1162.2025" timestamp="1655975137433" />
+    <state x="2513" y="281" key="#com.intellij.fileTypes.FileTypeChooser/-1440.-349.1162.2065/1920.0.1549.871/0.0.1549.871@1920.0.1549.871" timestamp="1655911788075" />
+    <state x="-1769" y="13" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1549.831/1920.0.1549.831/-2560.-349.2065.1122@-2560.-349.2065.1122" timestamp="1653289516936" />
+    <state x="593" y="268" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1549.831/1920.0.1549.831/-2560.-349.2065.1122@0.0.1549.831" timestamp="1653369630125" />
+    <state x="-982" y="267" key="FileChooserDialogImpl" timestamp="1660207134032">
+      <screen x="-1440" y="-349" width="1162" height="2025" />
+    </state>
+    <state x="-982" y="267" key="FileChooserDialogImpl/-1440.-349.1162.2025/1920.0.1549.831/0.0.1549.831@-1440.-349.1162.2025" timestamp="1660207134032" />
+    <state x="2530" y="265" key="FileChooserDialogImpl/-1440.-349.1162.2065/1920.0.1549.871/0.0.1549.871@1920.0.1549.871" timestamp="1655866111030" />
+    <state x="-1747" y="-8" key="FileChooserDialogImpl/0.0.1549.831/1920.0.1549.831/-2560.-349.2065.1122@-2560.-349.2065.1122" timestamp="1653269791781" />
+    <state width="1119" height="730" key="GridCell.Tab.0.bottom" timestamp="1660208701799">
+      <screen x="-1440" y="-349" width="1162" height="2025" />
+    </state>
+    <state width="1119" height="730" key="GridCell.Tab.0.bottom/-1440.-349.1162.2025/1920.0.1549.831/0.0.1549.831@-1440.-349.1162.2025" timestamp="1660208701799" />
+    <state width="1506" height="606" key="GridCell.Tab.0.bottom/-1440.-349.1162.2025/1920.0.1549.831/0.0.1549.831@0.0.1549.831" timestamp="1653987676025" />
+    <state width="1104" height="406" key="GridCell.Tab.0.bottom/-1440.-349.1162.2025/1920.0.1549.831/0.0.1549.831@1920.0.1549.831" timestamp="1655972532374" />
+    <state width="1506" height="430" key="GridCell.Tab.0.bottom/-1440.-349.1162.2065/1920.0.1549.871/0.0.1549.871@0.0.1549.871" timestamp="1655971156117" />
+    <state width="1506" height="430" key="GridCell.Tab.0.bottom/-1440.-349.1162.2065/1920.0.1549.871/0.0.1549.871@1920.0.1549.871" timestamp="1655908514614" />
+    <state width="1506" height="268" key="GridCell.Tab.0.bottom/0.0.1549.831/1920.0.1549.831/-1440.-349.1162.2025@0.0.1549.831" timestamp="1654589893445" />
+    <state width="2023" height="380" key="GridCell.Tab.0.bottom/0.0.1549.831/1920.0.1549.831/-2560.-349.2065.1122@-2560.-349.2065.1122" timestamp="1653443013448" />
+    <state width="1506" height="309" key="GridCell.Tab.0.bottom/0.0.1549.831/1920.0.1549.831/-2560.-349.2065.1122@0.0.1549.831" timestamp="1653305433432" />
+    <state width="1119" height="730" key="GridCell.Tab.0.center" timestamp="1660208701799">
+      <screen x="-1440" y="-349" width="1162" height="2025" />
+    </state>
+    <state width="1119" height="730" key="GridCell.Tab.0.center/-1440.-349.1162.2025/1920.0.1549.831/0.0.1549.831@-1440.-349.1162.2025" timestamp="1660208701799" />
+    <state width="1506" height="606" key="GridCell.Tab.0.center/-1440.-349.1162.2025/1920.0.1549.831/0.0.1549.831@0.0.1549.831" timestamp="1653987676025" />
+    <state width="1104" height="406" key="GridCell.Tab.0.center/-1440.-349.1162.2025/1920.0.1549.831/0.0.1549.831@1920.0.1549.831" timestamp="1655972532374" />
+    <state width="1506" height="430" key="GridCell.Tab.0.center/-1440.-349.1162.2065/1920.0.1549.871/0.0.1549.871@0.0.1549.871" timestamp="1655971156117" />
+    <state width="1506" height="430" key="GridCell.Tab.0.center/-1440.-349.1162.2065/1920.0.1549.871/0.0.1549.871@1920.0.1549.871" timestamp="1655908514614" />
+    <state width="1506" height="268" key="GridCell.Tab.0.center/0.0.1549.831/1920.0.1549.831/-1440.-349.1162.2025@0.0.1549.831" timestamp="1654589893444" />
+    <state width="2023" height="380" key="GridCell.Tab.0.center/0.0.1549.831/1920.0.1549.831/-2560.-349.2065.1122@-2560.-349.2065.1122" timestamp="1653443013447" />
+    <state width="1506" height="309" key="GridCell.Tab.0.center/0.0.1549.831/1920.0.1549.831/-2560.-349.2065.1122@0.0.1549.831" timestamp="1653305433431" />
+    <state width="1119" height="730" key="GridCell.Tab.0.left" timestamp="1660208701799">
+      <screen x="-1440" y="-349" width="1162" height="2025" />
+    </state>
+    <state width="1119" height="730" key="GridCell.Tab.0.left/-1440.-349.1162.2025/1920.0.1549.831/0.0.1549.831@-1440.-349.1162.2025" timestamp="1660208701799" />
+    <state width="1506" height="606" key="GridCell.Tab.0.left/-1440.-349.1162.2025/1920.0.1549.831/0.0.1549.831@0.0.1549.831" timestamp="1653987676025" />
+    <state width="1104" height="406" key="GridCell.Tab.0.left/-1440.-349.1162.2025/1920.0.1549.831/0.0.1549.831@1920.0.1549.831" timestamp="1655972532374" />
+    <state width="1506" height="430" key="GridCell.Tab.0.left/-1440.-349.1162.2065/1920.0.1549.871/0.0.1549.871@0.0.1549.871" timestamp="1655971156117" />
+    <state width="1506" height="430" key="GridCell.Tab.0.left/-1440.-349.1162.2065/1920.0.1549.871/0.0.1549.871@1920.0.1549.871" timestamp="1655908514614" />
+    <state width="1506" height="268" key="GridCell.Tab.0.left/0.0.1549.831/1920.0.1549.831/-1440.-349.1162.2025@0.0.1549.831" timestamp="1654589893444" />
+    <state width="2023" height="380" key="GridCell.Tab.0.left/0.0.1549.831/1920.0.1549.831/-2560.-349.2065.1122@-2560.-349.2065.1122" timestamp="1653443013447" />
+    <state width="1506" height="309" key="GridCell.Tab.0.left/0.0.1549.831/1920.0.1549.831/-2560.-349.2065.1122@0.0.1549.831" timestamp="1653305433430" />
+    <state width="1119" height="730" key="GridCell.Tab.0.right" timestamp="1660208701799">
+      <screen x="-1440" y="-349" width="1162" height="2025" />
+    </state>
+    <state width="1119" height="730" key="GridCell.Tab.0.right/-1440.-349.1162.2025/1920.0.1549.831/0.0.1549.831@-1440.-349.1162.2025" timestamp="1660208701799" />
+    <state width="1506" height="606" key="GridCell.Tab.0.right/-1440.-349.1162.2025/1920.0.1549.831/0.0.1549.831@0.0.1549.831" timestamp="1653987676025" />
+    <state width="1104" height="406" key="GridCell.Tab.0.right/-1440.-349.1162.2025/1920.0.1549.831/0.0.1549.831@1920.0.1549.831" timestamp="1655972532374" />
+    <state width="1506" height="430" key="GridCell.Tab.0.right/-1440.-349.1162.2065/1920.0.1549.871/0.0.1549.871@0.0.1549.871" timestamp="1655971156117" />
+    <state width="1506" height="430" key="GridCell.Tab.0.right/-1440.-349.1162.2065/1920.0.1549.871/0.0.1549.871@1920.0.1549.871" timestamp="1655908514614" />
+    <state width="1506" height="268" key="GridCell.Tab.0.right/0.0.1549.831/1920.0.1549.831/-1440.-349.1162.2025@0.0.1549.831" timestamp="1654589893444" />
+    <state width="2023" height="380" key="GridCell.Tab.0.right/0.0.1549.831/1920.0.1549.831/-2560.-349.2065.1122@-2560.-349.2065.1122" timestamp="1653443013447" />
+    <state width="1506" height="309" key="GridCell.Tab.0.right/0.0.1549.831/1920.0.1549.831/-2560.-349.2065.1122@0.0.1549.831" timestamp="1653305433431" />
+    <state width="2023" height="380" key="GridCell.Tab.1.bottom" timestamp="1653443013449">
+      <screen x="-2560" y="-349" width="2065" height="1122" />
+    </state>
+    <state width="2023" height="380" key="GridCell.Tab.1.bottom/0.0.1549.831/1920.0.1549.831/-2560.-349.2065.1122@-2560.-349.2065.1122" timestamp="1653443013449" />
+    <state width="2023" height="380" key="GridCell.Tab.1.center" timestamp="1653443013449">
+      <screen x="-2560" y="-349" width="2065" height="1122" />
+    </state>
+    <state width="2023" height="380" key="GridCell.Tab.1.center/0.0.1549.831/1920.0.1549.831/-2560.-349.2065.1122@-2560.-349.2065.1122" timestamp="1653443013449" />
+    <state width="2023" height="380" key="GridCell.Tab.1.left" timestamp="1653443013449">
+      <screen x="-2560" y="-349" width="2065" height="1122" />
+    </state>
+    <state width="2023" height="380" key="GridCell.Tab.1.left/0.0.1549.831/1920.0.1549.831/-2560.-349.2065.1122@-2560.-349.2065.1122" timestamp="1653443013449" />
+    <state width="2023" height="380" key="GridCell.Tab.1.right" timestamp="1653443013449">
+      <screen x="-2560" y="-349" width="2065" height="1122" />
+    </state>
+    <state width="2023" height="380" key="GridCell.Tab.1.right/0.0.1549.831/1920.0.1549.831/-2560.-349.2065.1122@-2560.-349.2065.1122" timestamp="1653443013449" />
+    <state x="-1259" y="23" key="SettingsEditor" timestamp="1660207142895">
+      <screen x="-1440" y="-349" width="1162" height="2025" />
+    </state>
+    <state x="-1259" y="23" key="SettingsEditor/-1440.-349.1162.2025/1920.0.1549.831/0.0.1549.831@-1440.-349.1162.2025" timestamp="1660207142895" />
+    <state x="-2018" y="-143" key="SettingsEditor/0.0.1549.831/1920.0.1549.831/-2560.-349.2065.1122@-2560.-349.2065.1122" timestamp="1653289997344" />
+    <state x="-1864" y="-103" width="672" height="678" key="search.everywhere.popup" timestamp="1653286519520">
+      <screen x="-2560" y="-349" width="2065" height="1122" />
+    </state>
+    <state x="-1864" y="-103" width="672" height="678" key="search.everywhere.popup/0.0.1549.831/1920.0.1549.831/-2560.-349.2065.1122@-2560.-349.2065.1122" timestamp="1653286519520" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Sanchuang_Early_Classification$word.coverage" NAME="word Coverage Results" MODIFIED="1660208409136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/word_analyize" />
+    <SUITE FILE_PATH="coverage/Sanchuang_Early_Classification$GetSellServer__1_.coverage" NAME="GetSellServer (1) Coverage Results" MODIFIED="1655972716507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ECTS" />
+    <SUITE FILE_PATH="coverage/Sanchuang_Early_Classification$data.coverage" NAME="data Coverage Results" MODIFIED="1655087940295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Sanchuang_Early_Classification$ECTSServer.coverage" NAME="ECTSServer Coverage Results" MODIFIED="1653291152157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Sanchuang_Early_Classification$GetSellServer.coverage" NAME="GetSellServer Coverage Results" MODIFIED="1655908426213" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Sanchuang_Early_Classification$connect2mysql.coverage" NAME="connect2mysql Coverage Results" MODIFIED="1653289775839" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
